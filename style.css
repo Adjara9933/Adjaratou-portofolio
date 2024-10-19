@@ -1,0 +1,51 @@
+h0 {
+  color: oldlace;
+  background-color: orange;
+  border: 1px solid black;
+}       
+
+h1, p1 {
+    color: black;
+    background-color: orange;
+    border: 1px solid black;
+  }       
+
+
+
+body {
+           font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: oldlace;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        img {
+            max-width: 200px;
+            height: 200px;
+            border: 50px;;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: #fff;
+        }
+        h2, h3, h4,h5 {
+            color: #007BFF;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #007BFF;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
